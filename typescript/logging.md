@@ -6,7 +6,7 @@
 
 `console.trace` is a better alternative, it shows the actual stack of what you give it.
 
-` console.log({obj})` - ` console.log({obj1, obj2, obj3})` will give a nicer output and also can receive more than one object.
+`console.log({obj})` - `console.log({obj1, obj2, obj3})` will give a nicer output and also can receive more than one object.
 
 `console.debug()` - `console.warn()` - `console.error()` besides formatting the output with nice colors it lets you filter them within the browser's console.
 

@@ -1,8 +1,8 @@
 # Prettier config
 
-### Default for my projects
+## Default for my projects
 
-```
+```json
 {
   "singleQuote": true,
   "arrowParens": "always",
