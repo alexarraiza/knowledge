@@ -13,3 +13,4 @@ Mainly organized in folders named as the general topic they hold
 - [Docker](docker/index.md)
 - [Flutter](flutter/index.md)
 - [Typescript](typescript/index.md)
+- [Web Dev](web/index.md)
