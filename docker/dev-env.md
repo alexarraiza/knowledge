@@ -50,6 +50,7 @@ services:
       - "8080:8080"
     volumes:
       - ./src:/app/src
+      - ./node_modules:/app/node_modules
       - ./env:/app/env
     command: ["npm", "run", "start:dev"]
 ```
@@ -101,6 +102,7 @@ services:
       - "3000:3000"
     volumes:
       - ./src:/app/src
+      - ./node_modules:/app/node_modules
       - ./env:/app/env
     command: ["npm", "run", "start:dev"]
     environment:

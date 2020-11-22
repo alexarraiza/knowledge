@@ -2,6 +2,8 @@
 
 ## Prettier default config
 
+`.prettierrc`
+
 ```json
 {
   "singleQuote": true,
