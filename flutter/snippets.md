@@ -7,7 +7,7 @@
 First way of doing it:
 
 ```dart
-if (ThemeData.estimateBrightnessForColor(backgroundColor) == Brightness.dark) {
+if (ThemeData.estimateBrightnessForColor(color) == Brightness.dark) {
     return Colors.white;
 }
 return Colors.black;
