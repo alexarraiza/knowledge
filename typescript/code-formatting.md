@@ -1,6 +1,6 @@
-# Prettier config
+# Code formatting
 
-## Default for my projects
+## Prettier default config
 
 ```json
 {

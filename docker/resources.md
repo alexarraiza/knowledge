@@ -1,4 +1,4 @@
-# Resources and utils
+# Resources and utilities
 
 ## Logs
 

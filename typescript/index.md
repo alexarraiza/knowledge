@@ -2,4 +2,10 @@
 
 ## Development environment
 
-You can know more on the docker directory [here](../docker/dev-env.md#Typescript)
+### [Docker](../docker/dev-env.md#Typescript) - How I deploy a TS project with docker and work in it comfortably
+
+### [Code formatting](code-formatting.md) - How I format code to work nicely
+
+## Logging
+
+### [Logging tips and tricks](logging.md)
